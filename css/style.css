@@ -313,3 +313,7 @@ body {
 .btn-smart {
   display: none;
 }
+
+.contact-address {
+  opacity: 0.4;
+}
