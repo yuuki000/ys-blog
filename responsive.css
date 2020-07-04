@@ -1,0 +1,96 @@
+
+@media (max-width: 950px) {
+
+  .sitetitle-sub::before,
+  .sitetitle-sub::after {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+  }
+
+  .sitetitle-sub {
+    font-size: 1.7rem;
+  }
+  
+  .sitetitle {
+    margin-top: 35px;
+    font-size: 5rem;
+  }
+
+  .header {
+    padding-top: 60px;
+  }
+
+  .btn:hover {
+    opacity: 1;
+  }
+
+  .heading {
+    font-size: 2.5rem;
+  }
+
+  .body {
+    font-size: 1.3rem;
+  }
+
+  .myname {
+    font-size: 2.3rem;
+  }
+
+  .sec1-text {
+    line-height: 1.8;
+  }
+
+  .history-wrapper,
+  .history-box {
+    display: block;
+  }
+
+  .history-img {
+    margin: 0 0 0;
+    opacity: 0.5;
+  }
+
+  .history-box::after {
+    display: none;
+  }
+
+  .history-text-back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .history-text-table {
+    position: absolute;
+    top: auto;
+  }
+
+  .sec2 {
+    padding-top: 80px;
+    padding-bottom: 0;
+  }
+
+  .gallery-box:hover {
+    background-color: #fff;
+  }
+
+  .gallery-wrapper, 
+  .gallery-box {
+    display: block;
+  }
+
+  .gallery-box {
+    border: none;
+  }
+
+  .gallery-box {
+    margin: 40px auto;
+  }
+}
+
+@media (max-width: 670px) {
+
+}
